@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(126, 245, 155);
+}
+
+footer {
+  background-color: rgb(131, 130, 130);
+  color: aquamarine;
+  font-size: 2rem;
+  letter-spacing: 8px;
+}
